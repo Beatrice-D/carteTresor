@@ -1,0 +1,5 @@
+C-4-4
+M-3-3
+T-1-2-3
+A-Toto-0-0-S-AAGAA
+A-Titi-3-0-S-AAA
